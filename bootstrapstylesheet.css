@@ -1,0 +1,35 @@
+body{
+    background-image: url("tianyi-ma-WiONHd_zYI4-unsplash.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top:20%;
+    
+}
+.btn{
+    text-transform: uppercase;
+    border-radius: 300px;
+    background-color: rgb(162,228,252);
+    color: black;
+    border-color: rgb(162,228,252);
+    
+}
+.btn:hover{
+    background-color: rgb(8, 33, 95);
+    border: 6px solid rgb(8, 33, 95);
+    color: white;
+}
+h1{
+    color: beige;
+}
+hr {
+    margin-top: 30px;
+    margin-left: 520px;
+    color: rgb(162,228,252);
+    border: 2px solid rgb(162,228,252);
+    border-radius: 50px;
+    max-width: 65px;
+    opacity: 1; 
+}
+.buffer{
+    margin-top: 85px;
+}
