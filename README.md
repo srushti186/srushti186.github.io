@@ -1,1 +1,1 @@
-This is my first Collage project , where I create a webpage using HTML and CSS
+This was my first Collage project , where I created a webpage using HTML and CSS
